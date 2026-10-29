@@ -1,7 +1,7 @@
 /* ===== Toiture Logan — script ===== */
 var CONFIG = {
   email: "toiturelogan@gmail.com",
-  whatsapp: "32472014516" // 0472 01 45 16 au format international
+  whatsapp: "32492885637" // 0492 88 56 37 au format international
 };
 
 /* Si une photo est en .jpeg / .png au lieu de .jpg, on essaie automatiquement */
